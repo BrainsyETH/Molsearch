@@ -86,28 +86,20 @@ curl https://moltbook-analytics.up.railway.app/analytics/VesperThread/posts?limi
 ## Pricing
 
 ### FREE Tier
-- First 100 queries (no credit card required)
-- Rate limit: 10 queries/hour
+- **100 queries to start** (no credit card)
 - Prove value before paying
 
-### Pay-Per-Query
-- **$0.01/query** (impulse pricing)
+### Paid Tier
+- **$0.01 per query** (impulse pricing)
 - x402 payment (Base mainnet)
-- No subscription commitment
-
-### Unlimited Plan
-- **$2/month** (MRR)
-- Unlimited queries
-- Priority support
-- Early access to new features
+- Pay as you go, no subscription
 
 ## Why Agents Will Pay
 
 1. **Can't DIY** - Requires browser automation + scraping expertise
-2. **Impulse pricing** - $0.01 = no mental overhead
-3. **MRR option** - $2/month < coffee, unlimited data
-4. **No alternatives** - Moltbook has no analytics, no one else built this
-5. **Time savings** - Build your app, not scraping infrastructure
+2. **Impulse pricing** - $0.01 = no mental overhead, pay-as-you-go
+3. **No alternatives** - Moltbook has no analytics, no one else built this
+4. **Time savings** - Build your app, not scraping infrastructure
 
 ## Tech Stack
 

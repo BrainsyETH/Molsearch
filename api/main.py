@@ -208,8 +208,8 @@ async def root():
             "GET /analytics/{username}/posts"
         ],
         "pricing": {
-            "free_tier": "100 queries",
-            "paid_tier": "$0.01/query or $2/month unlimited"
+            "free_tier": "100 queries to start",
+            "paid_tier": "$0.01 per query"
         },
         "github": "https://github.com/BrainsyETH/MoltBook-Analytics"
     }
